@@ -1,0 +1,16 @@
+body{
+    font-family: monospace;margin-right: 100px;
+}
+
+h1 { 
+    background-color: rgb(192, 234, 255);
+    color: darkblue;
+}
+label {
+    color: darkblue;
+}
+
+button {
+    color: darkblue;
+}
+
